@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" android:padding="5dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Groszowicka, od strony zagród rolniczych. 1km"
+        android:textAppearance="?android:attr/textAppearanceSmall" android:textColor="#ffffff"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Krakowskie przedmieście, Pałac prezydencki. 500m.'"
+        android:textAppearance="?android:attr/textAppearanceSmall" android:textColor="#ffffff"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Traffic near the U.S. White House, 1,5miles"
+        android:textAppearance="?android:attr/textAppearanceSmall" android:textColor="#ffffff"/>
+
+</LinearLayout>
